@@ -8,7 +8,7 @@ To setup this project:
 2. Clone repo `git clone https://github.com/evansopilo/portscanner-golang.git`
 
 ## Running
-1. Run `main.go`.
+1. Run `portscan.go`
 
 ## license
 Distributed under MIT License, please see license file within the code for more details.
